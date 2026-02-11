@@ -1,3 +1,5 @@
+![Dashboard Preview](assets/screenshots/01_dashboard.png)
+
 # 🚨 PLC + SCADA HMI Tag Monitor Simulator
 
 A Streamlit-based industrial automation project that simulates a **PLC + SCADA/HMI monitoring environment**, including:
