@@ -8,7 +8,9 @@ __pycache__/
 # Historian DB + exports
 data/*.db
 data/exports/
+data/exports/**
 
 # OS junk
 .DS_Store
 Thumbs.db
+.venv/
